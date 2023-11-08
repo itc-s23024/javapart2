@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="プロジェクト作成直後">
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Tax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/E621_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/E621_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/Rectangle.java" afterDir="false" />
+    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="chapter6-2まで終了。">
+      <change afterPath="$PROJECT_DIR$/src/chapter6/Sample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/Sample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/Sample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/E631.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/Sample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/Sample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/Tax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/Tax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,42 +29,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2XpnUKRi56kC5gVsUXdUOEJ7dc7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="アプリケーション.E621_3">
-    <configuration name="E621_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.E621_1" />
-      <module name="part2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="アプリケーション.E631">
     <configuration name="E621_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise.E621_3" />
       <module name="part2" />
@@ -76,8 +65,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6.Sample1" />
+    <configuration name="E631" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.E631" />
+      <module name="part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.Sample2" />
+      <module name="part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.Sample3" />
+      <module name="part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.Sample4" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
@@ -91,9 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.E631" />
+        <item itemvalue="アプリケーション.Sample4" />
+        <item itemvalue="アプリケーション.Sample3" />
+        <item itemvalue="アプリケーション.Sample2" />
         <item itemvalue="アプリケーション.E621_3" />
-        <item itemvalue="アプリケーション.E621_1" />
-        <item itemvalue="アプリケーション.Sample1" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +135,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699334903068</updated>
-      <workItem from="1699334904051" duration="8478000" />
+      <workItem from="1699334904051" duration="8801000" />
+      <workItem from="1699416650441" duration="10955000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -123,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699336628370</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chapter6-2まで終了。">
+      <option name="closed" value="true" />
+      <created>1699343746806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699343746806</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +170,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="プロジェクト作成直後" />
-    <option name="LAST_COMMIT_MESSAGE" value="プロジェクト作成直後" />
+    <MESSAGE value="chapter6-2まで終了。" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter6-2まで終了。" />
   </component>
 </project>
