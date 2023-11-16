@@ -5,7 +5,19 @@ public class GeneralMember {
     private String name;
     private Lesson lesson;
 
-    public GeneralMember(long id, String name) {
+    public int fee() {
+        return lesson.fee();
+    }
+
+    public String getLessonId() {
+        return lesson.getLessonId();
+    }
+
+    public String getLessonName() {
+        return lesson.getLessonName();
+    }
+
+    public GeneralMember(long id, String name, Lesson lesson) {
         this.id = id;
         this.name = name;
         this.lesson = lesson;
