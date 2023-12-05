@@ -12,20 +12,15 @@ public class Tax {
     }
 
     public int zeigaku(RateIntf r) {
+
         return (int) (shotoku * r.taxRate(shotoku));
     }
 
-    public long getNumber() {
-        return number;
-    }
+    public long getNumber() { return number; }
 
-    public String getName() {
-        return name;
-    }
+    public String getName() { return name; }
 
-    public int getShotoku() {
-        return shotoku;
-    }
+    public int getShotoku() { return shotoku; }
 
     @Override
     public String toString() {

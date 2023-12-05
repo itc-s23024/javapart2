@@ -4,21 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="chapter9-2まで終了。11/21(火)">
-      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Attendable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10_1/AuditingSutudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Sample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Sample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Sample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10_1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10_2/Rate1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10_2/RateIntf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10_2/Tax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/Versionable.java" afterDir="false" />
+    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="chapter10-2まで終了。11/22(水)">
+      <change afterPath="$PROJECT_DIR$/src/chapter10_2/Rate2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_2/Rate3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_2/Sample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_2/Sample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_2/Sample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/Addable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/Main3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10_2/Rate1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10_2/Rate1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10_2/Tax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10_2/Tax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,20 +64,20 @@
       <recent name="chapter9_2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter11_1" />
       <recent name="chapter8_3" />
       <recent name="chapter8_2" />
       <recent name="chapter7_9" />
       <recent name="exercise" />
-      <recent name="chapter7_6" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Sample4">
-    <configuration name="Sample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10_1.Sample2" />
+  <component name="RunManager" selected="アプリケーション.Main3">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11.Main" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10_1.*" />
+          <option name="PATTERN" value="chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10_1.Sample3" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11.Main2" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10_1.*" />
+          <option name="PATTERN" value="chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10_1.Sample4" />
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11.Main3" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10_1.*" />
+          <option name="PATTERN" value="chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter10_1.Sample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10_1.Sample1" />
+    <configuration name="chapter10_2.Sample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10_2.Sample2" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10_1.*" />
+          <option name="PATTERN" value="chapter10_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter9_1.Sample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter9_1.Sample3" />
+    <configuration name="chapter10_2.Sample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10_2.Sample3" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter9_1.*" />
+          <option name="PATTERN" value="chapter10_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.Sample4" />
-        <item itemvalue="アプリケーション.Sample3" />
-        <item itemvalue="アプリケーション.Sample2" />
-        <item itemvalue="アプリケーション.chapter10_1.Sample1" />
-        <item itemvalue="アプリケーション.chapter9_1.Sample3" />
+        <item itemvalue="アプリケーション.Main3" />
+        <item itemvalue="アプリケーション.Main2" />
+        <item itemvalue="アプリケーション.Main" />
+        <item itemvalue="アプリケーション.chapter10_2.Sample3" />
+        <item itemvalue="アプリケーション.chapter10_2.Sample2" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +162,9 @@
       <workItem from="1700007625445" duration="9639000" />
       <workItem from="1700108219024" duration="12100000" />
       <workItem from="1700525974452" duration="10580000" />
-      <workItem from="1700612046358" duration="10923000" />
+      <workItem from="1700612046358" duration="11191000" />
+      <workItem from="1701144706919" duration="601000" />
+      <workItem from="1701735421132" duration="10505000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -243,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700553487451</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="chapter10-2まで終了。11/22(水)">
+      <option name="closed" value="true" />
+      <created>1700640142752</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700640142752</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +269,7 @@
     <MESSAGE value="chapter8-2まで終了。11/15(水)" />
     <MESSAGE value="chapter8-3まで終了。11/16(木)" />
     <MESSAGE value="chapter9-2まで終了。11/21(火)" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter9-2まで終了。11/21(火)" />
+    <MESSAGE value="chapter10-2まで終了。11/22(水)" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter10-2まで終了。11/22(水)" />
   </component>
 </project>
