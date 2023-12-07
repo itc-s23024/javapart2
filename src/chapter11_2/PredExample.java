@@ -7,12 +7,14 @@ import java.util.function.Predicate;
 public class PredExample {
     public static void main(String[] args) {
 
-        boolean result = /* 1 */
+//        boolean result = pred(20, (i) -> (i >= 10));
+//        System.out.print(result);
 
-        System.out.print(result);
+        Predicate<Integer> pr = a -> (a >= 18);
+        System.out.println(pr.test(10));
     }
 
-    public static boolean pred(int number, Predicate<Integer> pr){
-        /* 2 */
-    }
+//    public static boolean pred(int number, Predicate<Integer> pr){
+//        return pr.test(number);
+//    }
 }
