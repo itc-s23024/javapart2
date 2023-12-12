@@ -22,30 +22,34 @@ public class Lesson1 {
         greetings.add("こんにちは");
         greetings.add("こんばんは");
 
-        for (String s:greetings){
-            System.out.println(s);
-        }
+        //forEachメソッドを使い、全要素を表示する
+        //greetings.forEach(t -> System.out.println(t));
+        greetings.forEach(System.out::println);
+
+//        for (String s:greetings){
+//            System.out.println(s);
+//        }
 
         //greetingリストの0番目の要素を取得して表示する
-        String s = greetings.get(0);
-        System.out.println(s);
+//        String s = greetings.get(0);
+//        System.out.println(s);
 
         //その値が「おはよう」なら「yes」と表示する
-        if (s.equals("おはよう")){
-            System.out.println("yes");
-        }
+//        if (s.equals("おはよう")){
+//            System.out.println("yes");
+//        }
 
         //greetingsリストが「good morning」という要素を含んでいるか
         //true または falseで表示する
-        System.out.println(greetings.contains("good morning"));
+        //       System.out.println(greetings.contains("good morning"));
 
         //greetingsリストが空でなかったら、要素の数を表示する
-        if (greetings.isEmpty()){
-            System.out.println(greetings.size());
-        }
+        //if (greetings.isEmpty()){
+        //    System.out.println(greetings.size());
+        //}
 
         //greetingsリストの2番目の要素を削除する
-        greetings.remove(2);
+        //greetings.remove(2);
 
     }
 }
