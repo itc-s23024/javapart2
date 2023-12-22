@@ -58,9 +58,16 @@ public class test4 {
 
 
         //first配列の値をひとつずつ、result配列に代入する
+        for(int i=0; i< first.length; i++){
+            result[i] = first[1];
+        }
 
         //second配列の値をひとつずつ、result配列に代入する
+        for(int i=0; i< second.length; i++){
+            result[i + first.length] = second[i];
+        }
 
         //result配列の中身を表示する
+        System.out.println(result);
     }
 }
