@@ -2,7 +2,7 @@ package exercise1;
 
 import java.util.Scanner;
 
-public class test5 {
+public class Test5 {
     public static void main(String[] args) {
         //標準入力で数値を受け取る
         //一番目は入力値の合計数

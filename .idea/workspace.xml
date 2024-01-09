@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="chapter12_2Sample7まで終了。12/14(木)">
+    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="chapter12_2Test6まで終了。１/３(水)">
+      <change afterPath="$PROJECT_DIR$/src/exercise1/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise1/Test7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise1/test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise1/test6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise1/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise1/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise1/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise1/Test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise1/test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise1/Test5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise1/test6.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +64,7 @@
       <recent name="chapter7_9" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.test6">
+  <component name="RunManager" selected="アプリケーション.Test7">
     <configuration name="Sample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter12_2.Sample5" />
       <module name="part2" />
@@ -73,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise1.Test1" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Test3" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise1.test3" />
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Test4" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise1.test4" />
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Test6" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise1.test6" />
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Test7" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.test6" />
+        <item itemvalue="アプリケーション.Test7" />
+        <item itemvalue="アプリケーション.Test6" />
         <item itemvalue="アプリケーション.Sample5" />
-        <item itemvalue="アプリケーション.test4" />
-        <item itemvalue="アプリケーション.test3" />
-        <item itemvalue="アプリケーション.Test1" />
+        <item itemvalue="アプリケーション.Test4" />
+        <item itemvalue="アプリケーション.Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +165,9 @@
       <workItem from="1702426185718" duration="11681000" />
       <workItem from="1702512622737" duration="11240000" />
       <workItem from="1703031564131" duration="9724000" />
-      <workItem from="1704287516310" duration="449000" />
+      <workItem from="1704287516310" duration="1157000" />
+      <workItem from="1704423606001" duration="29000" />
+      <workItem from="1704760927993" duration="5999000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -306,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703220480539</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="chapter12_2Test6まで終了。１/３(水)">
+      <option name="closed" value="true" />
+      <created>1704288148257</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1704288148257</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,6 +355,7 @@
     <MESSAGE value="chapter12_2まで終了。12/13(水)" />
     <MESSAGE value="chapter12_2test6まで終了。12/21(木)" />
     <MESSAGE value="chapter12_2Sample7まで終了。12/14(木)" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter12_2Sample7まで終了。12/14(木)" />
+    <MESSAGE value="chapter12_2Test6まで終了。１/３(水)" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter12_2Test6まで終了。１/３(水)" />
   </component>
 </project>

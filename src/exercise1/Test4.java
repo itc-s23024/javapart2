@@ -1,6 +1,6 @@
 package exercise1;
 
-public class test4 {
+public class Test4 {
     public static void main(String[] args) {
         //1から100までを数を順に見ていく
         //3の倍数以外の数のカウントを表示する
