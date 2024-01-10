@@ -37,17 +37,24 @@ public class Test7 {
             System.out.println();
         }
         /*
-           10 20
-           30 40
-           50 60
+           10 40
+           20 50
+           30 60
          */
         //新しい配列を作り、dataの値を代入する
         int[][] newdate = new int[3][2];
-        for (int y =0; y < newdate.length; y++) {
-            for (int x = 0; x < newdate.length; x++) {
-                System.out.print(newdate[y][x] + " ");
+
+        for (int y =0; y < date.length; y++) {
+            for (int x = 0; x < date[0].length; x++) {
+                 newdate[x][y] = date[y][x];
             }
-            System.out.println();
+
+            for (int i = 0; i< newdate.length; i++) {
+                for (int k = 0; k< newdate[0].length; k++) {
+                    System.out.println(newdate[i][k] + " ");
+                }
+                System.out.println();
+            }
         }
     }
 }
