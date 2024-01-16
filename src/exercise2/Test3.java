@@ -12,6 +12,8 @@ public class Test3 {
         int result = smallest(ar);
         System.out.println(result);
 
+        int result2 = getMaxValue(ar);
+        System.out.println(result2);
 
     }
     public static int smallest(int[] array){
@@ -23,6 +25,15 @@ public class Test3 {
     }
 
     //一番大きい値を求めるメソッドを作る
+
+    public static int getMaxValue(int[] array){
+        int max = Integer.MIN_VALUE;
+        for (int value: array){
+            max = Math.max(value, max);
+        }
+
+        return max;
+    }
 
     /*
     public static int smallest(int a, int b, int c){
