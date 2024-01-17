@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="exersice2Test2まで終了。１/11(木)">
-      <change afterPath="$PROJECT_DIR$/src/exercise2/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise2/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise3/Main.java" afterDir="false" />
+    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="exersice３Main１まで終了。１/16(火)">
+      <change afterPath="$PROJECT_DIR$/src/exercise3/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise2/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise2/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise3/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise3/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +61,13 @@
       <recent name="chapter7_9" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Test5">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise2.Test1" />
+  <component name="RunManager" selected="アプリケーション.Main">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise3.Dog" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise2.*" />
+          <option name="PATTERN" value="exercise3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise2.Test2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise3.Main" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise2.*" />
+          <option name="PATTERN" value="exercise3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Main" />
+        <item itemvalue="アプリケーション.Dog" />
         <item itemvalue="アプリケーション.Test5" />
         <item itemvalue="アプリケーション.Test4" />
         <item itemvalue="アプリケーション.Test3" />
-        <item itemvalue="アプリケーション.Test2" />
-        <item itemvalue="アプリケーション.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +167,9 @@
       <workItem from="1704760927993" duration="6045000" />
       <workItem from="1704845557557" duration="10408000" />
       <workItem from="1704931636679" duration="11337000" />
-      <workItem from="1705365428975" duration="9178000" />
+      <workItem from="1705365428975" duration="9297000" />
+      <workItem from="1705450301226" duration="9704000" />
+      <workItem from="1705536906970" duration="11484000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -347,7 +347,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704944484477</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="exersice2Test５まで終了。１/16(火)">
+      <option name="closed" value="true" />
+      <created>1705376482336</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1705376482336</updated>
+    </task>
+    <task id="LOCAL-00024" summary="exersice３Main１まで終了。１/16(火)">
+      <option name="closed" value="true" />
+      <created>1705462842263</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1705462842263</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,6 +401,8 @@
     <MESSAGE value="chapter12_2Test6まで終了。１/9(火)" />
     <MESSAGE value="exersice1Test9まで終了。１/10(水)" />
     <MESSAGE value="exersice2Test2まで終了。１/11(木)" />
-    <option name="LAST_COMMIT_MESSAGE" value="exersice2Test2まで終了。１/11(木)" />
+    <MESSAGE value="exersice2Test５まで終了。１/16(火)" />
+    <MESSAGE value="exersice３Main１まで終了。１/16(火)" />
+    <option name="LAST_COMMIT_MESSAGE" value="exersice３Main１まで終了。１/16(火)" />
   </component>
 </project>
