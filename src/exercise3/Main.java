@@ -1,5 +1,7 @@
 package exercise3;
 
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -51,7 +53,27 @@ public class Main {
         //Studentクラスのオブジェクトを作る
         //教科を追加するメソッドを呼び出し、
         //登録されている教科を表示する
+        s1.tuika( "数学");
+        s1.tuika("英語");
 
+        //Studentが登録しているコースを表示する
+        System.out.println(s1.getCourses());
+        ArrayList<String> cs = s1.getCourses();
+        for (String kyoka: cs){
+            System.out.println(kyoka);
+        }
 
+        Book bk1 = new Book("Java入門", "田中亮", 3900);
+        bk1.setTitle("Java入門２");
+        System.out.println(bk1.getTitle());
+
+        Book bk2 = new Book("Python入門", "ハミストン", 1500);
+
+        bk1.addBook(bk1);
+        System.out.println(bk1.getBookCollection());
+        ArrayList<Book> books = bk1.getBookCollection();
+        for (Book b : books){
+            System.out.println(b);
+        }
     }
 }

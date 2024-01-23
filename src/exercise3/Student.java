@@ -42,5 +42,8 @@ public class Student {
         courses.add(kyoka);
     }
 
+    public ArrayList<String> getCourses() {
+        return courses;
+    }
 
 }

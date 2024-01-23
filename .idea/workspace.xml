@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="exersice３Main１まで終了。１/16(火)">
-      <change afterPath="$PROJECT_DIR$/src/exercise3/Student.java" afterDir="false" />
+    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="exersice３Mainまで終了。１/16(火)">
+      <change afterPath="$PROJECT_DIR$/src/exercise3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise4/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/exercise3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise3/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise3/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise3/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +170,9 @@
       <workItem from="1704931636679" duration="11337000" />
       <workItem from="1705365428975" duration="9297000" />
       <workItem from="1705450301226" duration="9704000" />
-      <workItem from="1705536906970" duration="11484000" />
+      <workItem from="1705536906970" duration="11566000" />
+      <workItem from="1705896889976" duration="2000" />
+      <workItem from="1705969000203" duration="9533000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -363,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705462842263</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="exersice３Mainまで終了。１/16(火)">
+      <option name="closed" value="true" />
+      <created>1705549268312</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1705549268312</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,6 +414,7 @@
     <MESSAGE value="exersice2Test2まで終了。１/11(木)" />
     <MESSAGE value="exersice2Test５まで終了。１/16(火)" />
     <MESSAGE value="exersice３Main１まで終了。１/16(火)" />
-    <option name="LAST_COMMIT_MESSAGE" value="exersice３Main１まで終了。１/16(火)" />
+    <MESSAGE value="exersice３Mainまで終了。１/16(火)" />
+    <option name="LAST_COMMIT_MESSAGE" value="exersice３Mainまで終了。１/16(火)" />
   </component>
 </project>
