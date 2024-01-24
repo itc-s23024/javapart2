@@ -4,7 +4,7 @@ public class Window {
     private int height = 2;
     private int width = 3;
 
-<<<<<<< HEAD
+
     //コンストラクタ
 
     public Window(int height, int width) {
@@ -28,6 +28,5 @@ public class Window {
     public void setWidth(int width) {
         this.width = width;
     }
-=======
->>>>>>> origin/main
+
 }

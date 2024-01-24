@@ -16,5 +16,7 @@ public class Test2 {
         b = (short)value;
         c = (int)value;
         d = value;
+
+
     }
 }
