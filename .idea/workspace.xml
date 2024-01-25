@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="exersice4Test2まで終了。１/23(火)">
-      <change afterPath="$PROJECT_DIR$/src/exercise4/Test3.java" afterDir="false" />
+    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="exersice4Test３まで終了。１/24(水)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise3/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise3/Window.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise4/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise4/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise4/TangoGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise4/TangoGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
       <recent name="chapter7_9" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.exercise4.Test3">
+  <component name="RunManager" selected="アプリケーション.TangoGame">
     <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise3.Dog" />
       <module name="part2" />
@@ -88,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise2.Test4" />
+    <configuration name="TangoGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise4.TangoGame" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise2.*" />
+          <option name="PATTERN" value="exercise4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.TangoGame" />
         <item itemvalue="アプリケーション.exercise4.Test3" />
         <item itemvalue="アプリケーション.Main" />
         <item itemvalue="アプリケーション.Dog" />
         <item itemvalue="アプリケーション.Test5" />
-        <item itemvalue="アプリケーション.Test4" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +170,8 @@
       <workItem from="1705536906970" duration="11566000" />
       <workItem from="1705896889976" duration="2000" />
       <workItem from="1705969000203" duration="9533000" />
-      <workItem from="1706055912476" duration="5846000" />
+      <workItem from="1706055912476" duration="10732000" />
+      <workItem from="1706142336986" duration="10825000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -374,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705549268312</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="exersice4Test３まで終了。１/24(水)">
+      <option name="closed" value="true" />
+      <created>1706067609699</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1706067609699</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,6 +422,7 @@
     <MESSAGE value="exersice2Test５まで終了。１/16(火)" />
     <MESSAGE value="exersice３Main１まで終了。１/16(火)" />
     <MESSAGE value="exersice３Mainまで終了。１/16(火)" />
-    <option name="LAST_COMMIT_MESSAGE" value="exersice３Mainまで終了。１/16(火)" />
+    <MESSAGE value="exersice4Test３まで終了。１/24(水)" />
+    <option name="LAST_COMMIT_MESSAGE" value="exersice4Test３まで終了。１/24(水)" />
   </component>
 </project>
