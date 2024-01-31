@@ -31,7 +31,9 @@ public class TangoGame {
 
 
         int count = 5;
-        while (count > 0) {
+        boolean completed = false;
+        //completed == false
+        while (!completed && count > 0) {
             System.out.println("現在の状態: ");
 
             //printArayメソッド名を呼び出す
@@ -54,12 +56,16 @@ public class TangoGame {
 
             //checkWinメソッドを使い、判定する
             //trueが返ってきたら正解ということ
-            if (checkWin(guess)){
+            if (checkWin(guess)) {
                 System.out.println("正解です");
+                completed = true;
+            }
+        }
+            //ゲームオーバー
+            if (!completed){
+                System.out.println("ゲームオーバー");
             }
 
-
-        }
 
         /*
         単語当てゲーム！
