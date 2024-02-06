@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="exersice4Marubatuの途中まで終了。１/24(水)">
-      <change afterPath="$PROJECT_DIR$/src/exercise4/BankApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise5/Teat1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise5/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise5/Test3.java" afterDir="false" />
+    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="exersice5test1まで終了。2/1(木)">
+      <change afterPath="$PROJECT_DIR$/src/Sammple1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sammple1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sammple1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sammple1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sammple1/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise3/BankApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise5/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise5/Test3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +67,13 @@
       <recent name="chapter7_9" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Teat1">
+  <component name="RunManager" selected="アプリケーション.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise3.Main" />
+      <option name="MAIN_CLASS_NAME" value="Sammple1.Main" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise4.*" />
+          <option name="PATTERN" value="Sammple1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,19 +107,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TangoGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise4.TangoGame" />
-      <module name="part2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Teat1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise5.Teat1" />
       <module name="part2" />
@@ -132,13 +120,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise5.Test3" />
+      <module name="part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Main" />
+        <item itemvalue="アプリケーション.Test3" />
         <item itemvalue="アプリケーション.Teat1" />
         <item itemvalue="アプリケーション.Marubatu" />
         <item itemvalue="アプリケーション.Marubatsu" />
-        <item itemvalue="アプリケーション.TangoGame" />
-        <item itemvalue="アプリケーション.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +182,8 @@
       <workItem from="1706142336986" duration="10990000" />
       <workItem from="1706572804685" duration="9170000" />
       <workItem from="1706659513619" duration="12101000" />
-      <workItem from="1706746113583" duration="10834000" />
+      <workItem from="1706746113583" duration="10892000" />
+      <workItem from="1707179294816" duration="9188000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -407,7 +409,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706672417199</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="exersice5test1まで終了。2/1(木)">
+      <option name="closed" value="true" />
+      <created>1706758875409</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1706758875409</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,7 +435,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="chapter6-2まで終了。" />
     <MESSAGE value="chapter6-3まで終了。" />
     <MESSAGE value="chapter7-2まで終了。11/9(木)" />
     <MESSAGE value="chapter7-9まで終了。11/14(木)" />
@@ -450,6 +459,7 @@
     <MESSAGE value="exersice4Test３まで終了。１/24(水)" />
     <MESSAGE value="exersice4TangoGameの途中まで終了。１/24(水)" />
     <MESSAGE value="exersice4Marubatuの途中まで終了。１/24(水)" />
-    <option name="LAST_COMMIT_MESSAGE" value="exersice4Marubatuの途中まで終了。１/24(水)" />
+    <MESSAGE value="exersice5test1まで終了。2/1(木)" />
+    <option name="LAST_COMMIT_MESSAGE" value="exersice5test1まで終了。2/1(木)" />
   </component>
 </project>
