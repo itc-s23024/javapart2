@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="Sample1Animalまで終了。2/６(火)">
-      <change afterPath="$PROJECT_DIR$/src/Sample2/HighSchoolStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sample2/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sample2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sample2/UniversityStudent.java" afterDir="false" />
+    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="Sample2のMain2まで終了。2/６(火)">
+      <change afterPath="$PROJECT_DIR$/src/Sample2/Work.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sample2/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pizza/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pizza/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pizza/Hawaiian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pizza/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pizza/Margerita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pizza/PotatoPizza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sammple1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sammple1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sample2/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sample2/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sample2/UniversityStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sample2/UniversityStudent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Record" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -66,7 +72,7 @@
       <recent name="chapter7_9" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Main">
+  <component name="RunManager" selected="アプリケーション.Main2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sammple1.Main" />
       <module name="part2" />
@@ -80,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Marubatsu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise4.Marubatsu" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample2.Main2" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise4.*" />
+          <option name="PATTERN" value="Sample2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Main2" />
         <item itemvalue="アプリケーション.Main" />
         <item itemvalue="アプリケーション.Test3" />
         <item itemvalue="アプリケーション.Teat1" />
         <item itemvalue="アプリケーション.Marubatu" />
-        <item itemvalue="アプリケーション.Marubatsu" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +189,8 @@
       <workItem from="1706659513619" duration="12101000" />
       <workItem from="1706746113583" duration="10892000" />
       <workItem from="1707179294816" duration="10646000" />
-      <workItem from="1707264543637" duration="11293000" />
+      <workItem from="1707264543637" duration="12256000" />
+      <workItem from="1707351053127" duration="11140000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -425,7 +432,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707190895266</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Sample2のMain2まで終了。2/６(火)">
+      <option name="closed" value="true" />
+      <created>1707281505802</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1707281505802</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,7 +458,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="chapter7-2まで終了。11/9(木)" />
     <MESSAGE value="chapter7-9まで終了。11/14(木)" />
     <MESSAGE value="chapter8-2まで終了。11/15(水)" />
     <MESSAGE value="chapter8-3まで終了。11/16(木)" />
@@ -468,6 +482,7 @@
     <MESSAGE value="exersice4Marubatuの途中まで終了。１/24(水)" />
     <MESSAGE value="exersice5test1まで終了。2/1(木)" />
     <MESSAGE value="Sample1Animalまで終了。2/６(火)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sample1Animalまで終了。2/６(火)" />
+    <MESSAGE value="Sample2のMain2まで終了。2/６(火)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sample2のMain2まで終了。2/６(火)" />
   </component>
 </project>
