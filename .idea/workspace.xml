@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="PizaaのPizaaまで終了。2/６(火)">
+      <change afterPath="$PROJECT_DIR$/src/exception1/Lesson1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception1/Lesson2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pizza/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pizza/Cart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pizza/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pizza/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pizza/Pizza.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +65,33 @@
       <recent name="chapter7_9" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.pizza.Main">
+  <component name="RunManager" selected="アプリケーション.Lesson2">
+    <configuration name="Lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception1.Lesson1" />
+      <module name="part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception1.Lesson2" />
+      <module name="part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sammple1.Main" />
       <module name="part2" />
@@ -90,32 +118,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teat1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise5.Teat1" />
-      <module name="part2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise5.Test3" />
-      <module name="part2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="pizza.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pizza.Main" />
       <module name="part2" />
@@ -131,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Lesson2" />
+        <item itemvalue="アプリケーション.Lesson1" />
         <item itemvalue="アプリケーション.pizza.Main" />
         <item itemvalue="アプリケーション.Main2" />
         <item itemvalue="アプリケーション.Main" />
-        <item itemvalue="アプリケーション.Test3" />
-        <item itemvalue="アプリケーション.Teat1" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +184,8 @@
       <workItem from="1707179294816" duration="10646000" />
       <workItem from="1707264543637" duration="12256000" />
       <workItem from="1707351053127" duration="11286000" />
-      <workItem from="1707784446720" duration="10595000" />
+      <workItem from="1707784446720" duration="10835000" />
+      <workItem from="1707870352420" duration="10852000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -440,7 +443,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707365562951</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="PizaaのPizaaまで終了。2/６(火)">
+      <option name="closed" value="true" />
+      <created>1707795854822</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1707795854822</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
