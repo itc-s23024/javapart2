@@ -13,12 +13,28 @@ public class Lesson2 {
         //exitが入力されるまで続ける
         //例外が起きそうな処理を考えて入れる
 
-        System.out.println("生徒の番号を入力しください");
-        String n = sc.nextLine();
+        while (true){
+            System.out.println("生徒の番号を入力しください");
+            String n = sc.nextLine();
+            if (n.equals("exit")){
+                break;
+            }
 
-        int id = Integer.parseInt(n);
-        System.out.println(student.get(id));
-        //ｎが"0"だったら、Mikeを出力
+            try {
+                int id = Integer.parseInt(n);
+                System.out.println(student.get(id));
+
+            }catch (NumberFormatException e){
+                System.out.println("入力値不正です");
+
+            }catch (ArrayIndexOutOfBoundsException e){
+                System.out.println("該当する生徒は存在しません");
+            }
+
+            System.out.println("abc");
+        }
+
+
 
     }
 }
