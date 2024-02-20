@@ -6,23 +6,28 @@ public class Main {
         Player player = new King();
         player.setAttack(new Punch());
         player.fight();
+        player.setAttack(new Counter());
+        player.fight();
 
         System.out.println();
 
         //クイーンとナイトも同様に攻撃させる
         //新しいプレイヤーや攻撃方法を追加させる
 
-       System.out.println("クイーン");
+       System.out.println("クイーン:");
         Player player1 = new Queen();
         player1.setAttack(new Kick());
         player1.fight();
 
         System.out.println();
 
-        System.out.println("ナイト");
+        System.out.println("ナイト:");
         Player player2 = new Knight();
         player2.setAttack(new Punch());
+        player2.fight();
         player2.setAttack(new Kick());
+        player2.fight();
+        player2.setAttack(new Guard());
         player2.fight();
 
         System.out.println();
