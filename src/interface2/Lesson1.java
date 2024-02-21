@@ -20,6 +20,9 @@ public class Lesson1 {
 //        System.out.println("１：クレジットカード");
 //        System.out.println("２：電子マネー");
 //        System.out.println("３：現金");
+        for (int i=0; i<options.length; i++){
+            System.out.println((i+1) + ":" + options[i].getName());
+        }
 
         int num = sc.nextInt();
 
