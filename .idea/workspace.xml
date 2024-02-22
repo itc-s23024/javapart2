@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="interface2のLesson1まで終了。2/20(火)">
-      <change afterPath="$PROJECT_DIR$/src/enum1/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enum1/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enum1/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enum1/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enum1/Test6.java" afterDir="false" />
+    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="enum1のTest6まで終了。2/20(火)">
+      <change afterPath="$PROJECT_DIR$/src/exercise1/Lesoon3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise1/Lesson4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise1/Lesson5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise1/Lesson6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interface2/Lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface2/Lesson1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enum1/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enum1/Test6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +67,13 @@
       <recent name="chapter7_9" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Test5">
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enum1.Test2" />
+  <component name="RunManager" selected="アプリケーション.Lesson6">
+    <configuration name="Lesoon3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Lesoon3" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enum1.*" />
+          <option name="PATTERN" value="exercise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enum1.Test3" />
+    <configuration name="Lesson4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Lesson4" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enum1.*" />
+          <option name="PATTERN" value="exercise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enum1.Test4" />
+    <configuration name="Lesson5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Lesson5" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enum1.*" />
+          <option name="PATTERN" value="exercise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enum1.Test5" />
+    <configuration name="Lesson6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Lesson6" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enum1.*" />
+          <option name="PATTERN" value="exercise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="interface2.Lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interface2.Lesson1" />
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enum1.Test6" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interface2.*" />
+          <option name="PATTERN" value="enum1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.Test5" />
-        <item itemvalue="アプリケーション.Test4" />
-        <item itemvalue="アプリケーション.Test3" />
-        <item itemvalue="アプリケーション.Test2" />
-        <item itemvalue="アプリケーション.interface2.Lesson1" />
+        <item itemvalue="アプリケーション.Lesson6" />
+        <item itemvalue="アプリケーション.Lesson5" />
+        <item itemvalue="アプリケーション.Lesson4" />
+        <item itemvalue="アプリケーション.Lesoon3" />
+        <item itemvalue="アプリケーション.Test6" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +191,8 @@
       <workItem from="1707955824558" duration="11673000" />
       <workItem from="1708317236177" duration="4000" />
       <workItem from="1708387797848" duration="11258000" />
-      <workItem from="1708475638869" duration="10018000" />
+      <workItem from="1708475638869" duration="10674000" />
+      <workItem from="1708561363256" duration="10144000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -482,7 +482,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708400572820</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="enum1のTest6まで終了。2/20(火)">
+      <option name="closed" value="true" />
+      <created>1708486904757</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1708486904757</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,7 +508,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="chapter10-2まで終了。11/22(水)" />
     <MESSAGE value="chapter11まで終了。12/5(水)" />
     <MESSAGE value="chapter11_2まで終了。12/6(水)" />
     <MESSAGE value="chapter12まで終了。12/7(木)" />
@@ -525,6 +532,7 @@
     <MESSAGE value="exception1のLesson2まで終了。2/14(水)" />
     <MESSAGE value="interface1のMain1まで終了。2/15(木)" />
     <MESSAGE value="interface2のLesson1まで終了。2/20(火)" />
-    <option name="LAST_COMMIT_MESSAGE" value="interface2のLesson1まで終了。2/20(火)" />
+    <MESSAGE value="enum1のTest6まで終了。2/20(火)" />
+    <option name="LAST_COMMIT_MESSAGE" value="enum1のTest6まで終了。2/20(火)" />
   </component>
 </project>

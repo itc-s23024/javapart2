@@ -17,8 +17,19 @@ public class Test6 {
         };
 
         for (Item item:items){
-            System.out.println(item.getName() + ":" + item.getStatus().getJp());
+            System.out.println(item.getName() + ":" +
+                    item.getStatus().getJp());
         }
+
+        //発送完了した商品だけ表示
+        System.out.println("発送完了した商品");
+        for (Item item:items){
+            if (item.getStatus() == ItemStatus.SHIPPED){
+                System.out.println(item.getName() + ":" +
+                        item.getStatus().getJp());
+            }
+        }
+
     }
 }
 /*
