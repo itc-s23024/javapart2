@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="enum1のTest6まで終了。2/20(火)">
-      <change afterPath="$PROJECT_DIR$/src/exercise1/Lesoon3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise1/Lesson4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise1/Lesson5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise1/Lesson6.java" afterDir="false" />
+    <list default="true" id="934bcc42-65c2-4a7e-8d0b-9f28ba297872" name="変更" comment="exercise1のLesson6まで終了。2/20(火)">
+      <change afterPath="$PROJECT_DIR$/src/kimatusikenn2gatu/TangoGame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kimatusikenn2gatu/TangoGame3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enum1/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enum1/Test6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +64,13 @@
       <recent name="chapter7_9" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Lesson6">
-    <configuration name="Lesoon3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise1.Lesoon3" />
+  <component name="RunManager" selected="アプリケーション.TangoGame3">
+    <configuration name="TangoGame2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kimatu1.TangoGame2" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise1.*" />
+          <option name="PATTERN" value="Kimatu1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise1.Lesson4" />
+    <configuration name="TangoGame3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kimatusikenn2gatu.TangoGame3" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise1.*" />
+          <option name="PATTERN" value="kimatusikenn2gatu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise1.Lesson5" />
+    <configuration name="kimatusikenn2gatu.TangoGame2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kimatusikenn2gatu.TangoGame2" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise1.*" />
+          <option name="PATTERN" value="kimatusikenn2gatu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise1.Lesson6" />
+    <configuration name="s23024_MatayoshiRikuu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kimatusikenn2gatu.s23024_MatayoshiRikuu" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise1.*" />
+          <option name="PATTERN" value="kimatusikenn2gatu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enum1.Test6" />
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kimatu1.test1" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enum1.*" />
+          <option name="PATTERN" value="Kimatu1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.Lesson6" />
-        <item itemvalue="アプリケーション.Lesson5" />
-        <item itemvalue="アプリケーション.Lesson4" />
-        <item itemvalue="アプリケーション.Lesoon3" />
-        <item itemvalue="アプリケーション.Test6" />
+        <item itemvalue="アプリケーション.TangoGame3" />
+        <item itemvalue="アプリケーション.kimatusikenn2gatu.TangoGame2" />
+        <item itemvalue="アプリケーション.s23024_MatayoshiRikuu" />
+        <item itemvalue="アプリケーション.TangoGame2" />
+        <item itemvalue="アプリケーション.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +189,8 @@
       <workItem from="1708317236177" duration="4000" />
       <workItem from="1708387797848" duration="11258000" />
       <workItem from="1708475638869" duration="10674000" />
-      <workItem from="1708561363256" duration="10144000" />
+      <workItem from="1708561363256" duration="10202000" />
+      <workItem from="1708993015874" duration="8666000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -490,7 +488,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708486904757</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="exercise1のLesson6まで終了。2/20(火)">
+      <option name="closed" value="true" />
+      <created>1708573296178</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1708573296178</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,7 +514,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="chapter11まで終了。12/5(水)" />
     <MESSAGE value="chapter11_2まで終了。12/6(水)" />
     <MESSAGE value="chapter12まで終了。12/7(木)" />
     <MESSAGE value="chapter12_1まで終了。12/12(火)" />
@@ -533,6 +538,7 @@
     <MESSAGE value="interface1のMain1まで終了。2/15(木)" />
     <MESSAGE value="interface2のLesson1まで終了。2/20(火)" />
     <MESSAGE value="enum1のTest6まで終了。2/20(火)" />
-    <option name="LAST_COMMIT_MESSAGE" value="enum1のTest6まで終了。2/20(火)" />
+    <MESSAGE value="exercise1のLesson6まで終了。2/20(火)" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise1のLesson6まで終了。2/20(火)" />
   </component>
 </project>
